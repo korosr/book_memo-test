@@ -11,7 +11,7 @@ class BookList extends StatelessWidget {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       child: Container(
-        child: Text("本棚"),
+        child: Text("本棚です"),
       ),
     );
   }
